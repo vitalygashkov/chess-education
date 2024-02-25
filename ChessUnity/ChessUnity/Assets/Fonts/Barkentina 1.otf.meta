@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 3e5df174ba97a104f9a584512bd78550
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Barkentina Test
+  fontNames:
+  - Barkentina Test
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 379faef6a95aa440781f3873babe4887, type: 3}
+  - {fileID: 12800000, guid: 08c3d38eb09d45948a29d784d73ad7b2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
